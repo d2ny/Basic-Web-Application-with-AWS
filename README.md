@@ -16,3 +16,8 @@ Module 3.
 - Trigger a Lambda function from an API
 - Enable cross-origin resource sharing (CORS) on an API so you can consume resources from a different origin (domain)
 - Test an API created with API Gateway from the AWS Management Console
+
+Module 4.
+- Create a DynamoDB table using the AWS Management Console
+- Create a role and manage permissions with IAM
+- Write to a DynamoDB table using the AWS SDK (Python, JavaScript, or Java)
