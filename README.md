@@ -1,6 +1,6 @@
 # Basic Web Application with AWS
 
-##Module 1.
+#Module 1.
 - Creating an "Amplify" app.
 - Uploading files for a website directly to "Amplify".
 - Deploying new versions of a webpage with "Amplify".
