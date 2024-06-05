@@ -1,4 +1,4 @@
-# Basic Web Application with AWS
+# Basic Web Application with AWS.
 
 Module 1.
 - Creating an "Amplify" app.
@@ -20,10 +20,10 @@ Module 3.
 Module 4.
 - Creating a DynamoDB table using the AWS Management Console.
 - Creating a role and manage permissions with IAM.
-- Writing to a DynamoDB table using the AWS SDK (Python, JavaScript, and Java)
+- Writing to a DynamoDB table using the AWS SDK (Python, JavaScript, and Java).
 
 Module 5.
-- Calling the API Gateway from an HTML page
+- Calling the API Gateway from an HTML page.
 - Uploading a new version of the web app to the Amplify console.
 
 Module 6.
