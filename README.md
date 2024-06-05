@@ -21,3 +21,7 @@ Module 4.
 - Create a DynamoDB table using the AWS Management Console
 - Create a role and manage permissions with IAM
 - Write to a DynamoDB table using the AWS SDK (Python, JavaScript, or Java)
+
+Module 5.
+- Call an API Gateway API from an HTML page
+- Upload a new version of a web app to the Amplify console
